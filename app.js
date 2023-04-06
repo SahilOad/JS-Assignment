@@ -133,7 +133,7 @@ for (var x=0; x<=15; x++) {
 
 //Answer of 6th Question
 
-var students = [['David', 80], ['Vinoth', 77], ['Divya', 88], ['Ishitha', 95], ['Thomas', 68]];
+var students = [['Sahil', 80], ['Kamlesh', 77], ['Roshan', 88], ['Shakir', 95], ['Talha', 68]];
 
 var Avgmarks = 0;
 
